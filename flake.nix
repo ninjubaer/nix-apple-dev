@@ -21,7 +21,7 @@
     };
     # The scripts that do the user-space part (xtool, SDK, signing, device runs).
     upstream = {
-      url = "github:joshuaswarren/omarchy-apple-dev/172e28cff7b6d5adebfa49f93957d6a864378dfb";
+      url = "github:joshuaswarren/omarchy-apple-dev/956f30b78a74755b7f1eddd13d748c9ef8412f91";
       flake = false;
     };
   };
